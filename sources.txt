@@ -1,3 +1,6 @@
 Best tutorial for learning LLM fine-tuning:
 
 - https://www.youtube.com/watch?v=Wx1oiBCmxjY
+- https://www.youtube.com/watch?v=bZcKYiwtw1I&t=2s
+- https://www.youtube.com/watch?v=uKDEE71oFUY&t=3s
+
